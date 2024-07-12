@@ -1,2 +1,5 @@
 # pruebaFGRP
-Prueba para FGRP
+Backend desarrollado en C# para las historias de usuario
+
+## HISTORIA DE USUARIO: API GATEWAY
+## HISTORIA DE USUARIO: CREACIÓN DE WORKER SERVICE PARA PROCESAMIENTO DE ÓRDENES EN SEGUNDO PLANO
