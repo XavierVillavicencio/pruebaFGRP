@@ -1,0 +1,6 @@
+@pruebaFGRP_HostAddress = http://localhost:5145
+
+GET {{pruebaFGRP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

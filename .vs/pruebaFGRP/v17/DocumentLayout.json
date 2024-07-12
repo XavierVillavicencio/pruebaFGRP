@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\data\\configdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:data\\configdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\interfaces\\iconfigdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:interfaces\\iconfigdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\workers\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:workers\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\data\\pruebafgrpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:data\\pruebafgrpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xavie\\AppData\\Local\\SourceServer\\a5b9d376f2480ffde9ae816419e6b4fa467d30d6603081b970b42f0e9a7e0677\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\models\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:models\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|e:\\tmp\\www\\pruebafgrp\\pruebafgrp\\models\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CE3A2-F138-4316-9FF0-60B0BC1994DC}|pruebaFGRP.csproj|solutionrelative:models\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigData.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Data\\ConfigData.cs",
+              "RelativeDocumentMoniker": "Data\\ConfigData.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Data\\ConfigData.cs",
+              "RelativeToolTip": "Data\\ConfigData.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T22:57:00.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:34:35.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\xavie\\AppData\\Local\\SourceServer\\a5b9d376f2480ffde9ae816419e6b4fa467d30d6603081b970b42f0e9a7e0677\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\xavie\\AppData\\Local\\SourceServer\\a5b9d376f2480ffde9ae816419e6b4fa467d30d6603081b970b42f0e9a7e0677\\src\\libraries\\Microsoft.Extensions.DependencyInjection\\src\\ServiceProvider.cs [Read Only]",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAQwEwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:20:31.668Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogsController.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "Controllers\\LogsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:27:34.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Models\\Orders.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Models\\Orders.cs",
+              "RelativeToolTip": "Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:20:01.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:21:34.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HealthController.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "Controllers\\HealthController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA0wCoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T22:24:12.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T22:44:27.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigController.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "Controllers\\ConfigController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:14:02.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IConfigData.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Interfaces\\IConfigData.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IConfigData.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Interfaces\\IConfigData.cs*",
+              "RelativeToolTip": "Interfaces\\IConfigData.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:26:07.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pruebaFGRPContext.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Data\\pruebaFGRPContext.cs",
+              "RelativeDocumentMoniker": "Data\\pruebaFGRPContext.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Data\\pruebaFGRPContext.cs",
+              "RelativeToolTip": "Data\\pruebaFGRPContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:22:06.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Workers\\Worker.cs",
+              "RelativeDocumentMoniker": "Workers\\Worker.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Workers\\Worker.cs",
+              "RelativeToolTip": "Workers\\Worker.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:11:16.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCQAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:38:44.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logs.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Models\\Logs.cs",
+              "RelativeDocumentMoniker": "Models\\Logs.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Models\\Logs.cs",
+              "RelativeToolTip": "Models\\Logs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:23:15.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T22:24:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Config.cs",
+              "DocumentMoniker": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Models\\Config.cs",
+              "RelativeDocumentMoniker": "Models\\Config.cs",
+              "ToolTip": "E:\\tmp\\www\\pruebaFGRP\\pruebaFGRP\\Models\\Config.cs",
+              "RelativeToolTip": "Models\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:21:19.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
